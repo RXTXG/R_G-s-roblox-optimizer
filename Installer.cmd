@@ -39,19 +39,14 @@ if %errorlevel% EQU 0 (
     echo.
     echo SUCCESS: installation completed good job
 ) else (
-    echo Failed to download ClientAppSettings.json.
+    echo Failed to download optimizer.
     echo.
     echo ERROR: installation failed wtf did you do???
 )
 
 echo.
-echo NOTE:
+echo If you need help, DM r_g on discord
 echo.
-echo 1. I would be surprised if this worked the 1st time
-echo.
-echo 2. If you need help, DM r_g on discord
-echo.
-echo 3. To uninstall delete roblox and install it again
 echo.
 echo.
 echo Press any key to continue... & pause >nul
