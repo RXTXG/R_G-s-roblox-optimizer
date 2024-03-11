@@ -45,8 +45,8 @@ if %errorlevel% EQU 0 (
 )
 
 echo.
-echo If you need help, DM r_g on discord
 echo.
+echo If you need help, DM r_g on discord
 echo.
 echo.
 echo Press any key to continue... & pause >nul
