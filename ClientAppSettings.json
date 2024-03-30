@@ -8,7 +8,7 @@
   "FIntEmotesAnimationsPerPlayerCacheSize": 16777216,
   "DFIntUserIdPlayerNameCacheSize": 33554432,
   "DFIntUserIdPlayerNameLifetimeSeconds": 86400,
-  "DFIntTaskSchedulerTargetFps": 696969,
+  "DFIntTaskSchedulerTargetFps": 69420,
   "FFlagEnableQuickGameLaunch": false,
   "FFlagHandleAltEnterFullscreenManually": false,
   "FFlagDisableNewIGMinDUA": true,
@@ -123,9 +123,7 @@
   "FFlagDebugGraphicsPreferD3D11": true,
   "DFFlagDebugRenderForceTechnologyVoxel": true,
   "FIntRenderShadowIntensity": 0,
-  "DFFlagDebugPauseVoxelizer": true,
   "FFlagRenderCheckThreading": "True",
-  "FFlagDebugSkyGray": true,
   "FFlagDisablePostFx": true,
   "FIntRenderLocalLightUpdatesMax": 1,
   "FIntRenderLocalLightUpdatesMin": 1,
@@ -145,5 +143,7 @@
   "DFIntDebugDefaultTargetWorldStepsPerFrame": "1000",
   "DFIntS2PhysicsSenderRate": "250",
   "FIntTaskSchedulerAutoThreadLimit": "8",
-  "FIntFontSizePadding": "3"
+  "FIntFontSizePadding": "3",
+  "FFlagDebugSkyGray": true,
+  "DFFlagDebugPauseVoxelizer": true
 }
