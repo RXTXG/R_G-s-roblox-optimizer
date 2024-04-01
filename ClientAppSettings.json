@@ -121,6 +121,7 @@
   "DFStringRobloxAnalyticsSubDomain": "opt-out",
   "DFStringRobloxAnalyticsURL": "http://opt-out.roblox.com",
   "FFlagDebugGraphicsPreferD3D11": true,
+  "DFFlagDebugRenderForceTechnologyVoxel": true,
   "FIntRenderShadowIntensity": 0,
   "FFlagRenderCheckThreading": "True",
   "FFlagDisablePostFx": true,
@@ -142,5 +143,7 @@
   "DFIntDebugDefaultTargetWorldStepsPerFrame": "1000",
   "DFIntS2PhysicsSenderRate": "250",
   "FIntTaskSchedulerAutoThreadLimit": "8",
-  "FIntFontSizePadding": "3"
+  "FIntFontSizePadding": "3",
+  "FFlagDebugSkyGray": true,
+  "DFFlagDebugPauseVoxelizer": true
 }
