@@ -129,7 +129,6 @@
   "FIntRenderLocalLightUpdatesMin": 1,
   "FFlagRenderCheckThreading": "True",
   "FFlagCoreGuiTypeSelfViewPresent": false,
-  "FIntDebugForceMSAASamples": 2,
   "FLogNetwork": "7",
   "FFlagDebugDisableTelemetryEphemeralCounter": "True",
   "FFlagDebugDisableTelemetryEphemeralStat": "True",
