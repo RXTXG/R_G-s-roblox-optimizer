@@ -33,7 +33,7 @@ if not exist "%folder%\ClientSettings" (
 )
 
 echo Downloading slightly less cool files...
-powershell.exe -Command "& {(New-Object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/floofydude68/R_G-s-roblox-optimizer/main/ClientAppSettings%20less%20optimized%20ver%20but%20more%20compatibility', '%folder%\ClientSettings\ClientAppSettings.json')}"
+powershell.exe -Command "& {(New-Object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/floofydude68/R_G-s-roblox-optimizer/main/ClientAppSettings-less-optimized-ver-but-more-compatibility', '%folder%\ClientSettings\ClientAppSettings.json')}"
 if %errorlevel% EQU 0 (
     echo Less cool files downloaded successfully
     echo.
