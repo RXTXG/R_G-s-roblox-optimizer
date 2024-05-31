@@ -49,7 +49,6 @@
   "FIntRenderGrassDetailStrands": 0,
   "FIntRenderGrassHeightScaler": 0,
   "FFlagGlobalWindRendering": false,
-  "FFlagEnableCameraByDefault": false,
   "DFFlagVideoCaptureServiceEnabled": false,
   "FFlagAvatarChatSettingsEnabled2": false,
   "FFlagFacialAnimationStreamingServiceUserSettingsOptInVideo": false,
