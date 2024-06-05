@@ -142,5 +142,6 @@
   "FIntTaskSchedulerAutoThreadLimit": "8",
   "FIntFontSizePadding": "3",
   "FFlagDebugSkyGray": true,
+  "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
   "DFFlagDebugPauseVoxelizer": true
 }
